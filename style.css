@@ -28,3 +28,19 @@ body {
 	left: 935px;
 	font-weight: 300px;
 }
+.blog {
+	font-size: 18px;
+	font-family: serif;
+	position: absolute;
+	top: 1565px;
+	left: 635px;
+	font-weight: 300px;
+}
+.scrollText {
+	font-size: 18px;
+	font-family: serif;
+	position: absolute;
+	top: 200px;
+	left: 510px;
+	font-weight: 300px;
+}
